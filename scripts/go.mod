@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/scripts/
+module github.com/crasiak/pulumi-grafana/scripts/
 
 go 1.13
 
