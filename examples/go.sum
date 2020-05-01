@@ -126,14 +126,6 @@ github.com/coreos/go-semver v0.2.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3Ee
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f/go.mod h1:E3G3o1h8I7cfcXa63jLwjI0eiQQMgzzUDFVpN/nH/eA=
 github.com/cpuguy83/go-md2man/v2 v2.0.0/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
-github.com/crasiak/pulumi-grafana v0.0.0-20200428163122-bc899c3b18ac h1:AayH/VWkqP5QpuM1n9L17+wgyW1Mym8yzb+ITn8U1WI=
-github.com/crasiak/pulumi-grafana v0.0.0-20200428163122-bc899c3b18ac/go.mod h1:W0EIKZ80qfiBezyNZiTN7c9pF74uYtFCjPnyiZajBf8=
-github.com/crasiak/pulumi-grafana v0.0.0-20200428222841-89dfdf772023 h1:JDKNTNlizeffaP+hGKaYcfqeZSdq38cZNJ+GbiMJK98=
-github.com/crasiak/pulumi-grafana v0.0.0-20200428230456-88ae9d04ecdc h1:22nzP1kf5Y3Xu8fv784eYAF+PcatpEPAOmT0ZhxDarU=
-github.com/crasiak/pulumi-grafana/sdk v0.0.0-20200428163122-bc899c3b18ac h1:H1JfcH6KnQBTKbwbknaC2LQaRwniVM9SlR9BIHqSfA8=
-github.com/crasiak/pulumi-grafana/sdk v0.0.0-20200428163122-bc899c3b18ac/go.mod h1:c3gGm1WP5kPmJLnL5aBTUMnq3Az1PhCtMuEJduMvNRA=
-github.com/crasiak/pulumi-grafana/sdk v0.0.0-20200428230456-88ae9d04ecdc h1:Pfc+x04AiSV2g330c9cGI1t+gJ7B1HH6CzOaPC64wuc=
-github.com/crasiak/pulumi-grafana/sdk/go v0.0.0-20200428224504-afade496a3fb h1:aj8Arg7ECn4w/6J5z8iaL0+6vs1wJDI2+Pqfq2iIHLc=
 github.com/crasiak/terraform-provider-grafana v1.5.2 h1:xpfklE8IL4KYehmtd0m4EsyNKixmZQiODKodNce+p54=
 github.com/crasiak/terraform-provider-grafana v1.5.2/go.mod h1:OH00dE9AhXE/rm4gEhwaakQdRDqaRvxeyn48K6EoKRY=
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
